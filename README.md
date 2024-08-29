@@ -8,3 +8,4 @@ Included here are a map of the delivery area, the table of distances between add
 
 # My Solution
 I created a hash table of packages and package details. I implemented a nearest neighbor algorithm, which is a type of greedy algorithm, to deliver my packages.
+My program can be run in the command line. Please run main.py.
